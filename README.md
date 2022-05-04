@@ -1,4 +1,4 @@
-# Vue 3 + Vite + Pinia + Vue-router + WindiCss
+# Vue 3 + Vite + Pinia + Vue-router + WindiCss + Yarn
 
 Superfast and small in prod template based on modern [VUE3](https://vuejs.org/) and fast technology: [VITE](https://vitejs.dev/guide/) (pronounced /vit/, like "veet" =))), [WINDICSS](https://windicss.org/guide/) (next gen [tailwind](https://tailwindcss.com/docs/installation)) Fogert bootstrap, vuetify. Also include [PINIA](https://pinia.vuejs.org/introduction.html) (next gen vuex), [VUE-ROUTER](https://router.vuejs.org/guide/) and package manager [YARN](https://classic.yarnpkg.com/en/docs/getting-started). All for comfort. Everything for fast development. 
 

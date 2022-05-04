@@ -6,7 +6,8 @@ Superfast and small in prod template based on modern [VUE3](https://vuejs.org/) 
 [Vite](https://vitejs.dev/guide/) +
 [Pinia](https://pinia.vuejs.org/introduction.html) +
 [Vue-router](https://router.vuejs.org/guide/) +
-[WindiCss](https://windicss.org/guide/)
+[WindiCss](https://windicss.org/guide/) +
+[Yarn](https://classic.yarnpkg.com/en/docs/getting-started)
 
 ##
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.

@@ -11,7 +11,7 @@ module.exports = {
     'no-console': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'vue/require-default-prop': 'off', //требовать для props дефолтных значений, кроме Boolean значений
-    'vue/no-v-html': 'off', //предупреждения о возможной уязвимости посредством XSS атаки
+    'vue/no-v-html': 'off', //предупреждать о возможной уязвимости посредством XSS атаки
     'no-undef': 'off', //ошибка объявления переменной
   },
 }

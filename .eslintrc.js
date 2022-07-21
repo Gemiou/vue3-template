@@ -10,7 +10,7 @@ module.exports = {
   rules: {
     'no-console': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
-    'no-undef': 'off', //ошибка объявления переменной
+    'no-undef': 'off', //неиспользуемая переменная
     'vue/require-default-prop': 'off', //требовать для props дефолтных значений, кроме Boolean значений
     // 'vue/no-v-html': 'off', //предупреждения о возможной уязвимости посредством XSS атаки
   },

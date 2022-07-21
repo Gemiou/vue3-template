@@ -13,15 +13,15 @@ defineProps({
     <h3>
       You’ve successfully created a project with
       <a
-        target="_blank"
         href="https://vitejs.dev/"
+        target="_blank"
       >
         Vite
       </a>
       +
       <a
-        target="_blank"
         href="https://vuejs.org/"
+        target="_blank"
       >
         Vue 3.
       </a>
@@ -31,9 +31,9 @@ defineProps({
 
 <style lang="scss" scoped>
 h1 {
-  font-weight: 500;
-  font-size: 2.6rem;
   top: -10px;
+  font-size: 2.6rem;
+  font-weight: 500;
 }
 
 h3 {

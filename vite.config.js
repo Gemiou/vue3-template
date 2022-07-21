@@ -12,6 +12,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  // change name to your repo name /repo/
+  // change name to your repo name " base: '/REPO/' "
   base: '/vue3-template/',
 })

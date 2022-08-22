@@ -13,5 +13,5 @@ export default defineConfig({
     },
   },
   // change name to your repo name " base: '/REPO/' "
-  base: '/vue3-template/',
+  base: '/vue3/',
 })

@@ -18,6 +18,7 @@ import SupportIcon from './icons/IconSupport.vue'
     Vue’s
     <a
       href="https://vuejs.org/"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       official documentation
@@ -35,6 +36,7 @@ import SupportIcon from './icons/IconSupport.vue'
     This project is served and bundled with
     <a
       href="https://vitejs.dev/guide/features.html"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       Vite.
@@ -42,18 +44,22 @@ import SupportIcon from './icons/IconSupport.vue'
     + The recommended IDE setup is
     <a
       href="https://code.visualstudio.com/"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       VSCode
     </a>
     <a
       href="https://github.com/johnsoncodehk/volar"
+      rel="noopener noreferrer nofollow"
       target="_blank"
-      >Volar.</a
     >
+      Volar.
+    </a>
     If you need to test your components and web pages, check out
     <a
       href="https://www.cypress.io/"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       Cypress
@@ -61,6 +67,7 @@ import SupportIcon from './icons/IconSupport.vue'
     and
     <a
       href="https://docs.cypress.io/guides/component-testing/introduction"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       Cypress Component Testing.
@@ -81,18 +88,21 @@ import SupportIcon from './icons/IconSupport.vue'
     Get official tools and libraries for your project:
     <a
       href="https://pinia.vuejs.org/"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       Pinia,
     </a>
     <a
       href="https://router.vuejs.org/"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       Vue Router,
     </a>
     <a
       href="https://test-utils.vuejs.org/"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       Vue Test Utils,
@@ -100,6 +110,7 @@ import SupportIcon from './icons/IconSupport.vue'
     and
     <a
       href="https://github.com/vuejs/devtools"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       Vue Dev Tools.
@@ -107,6 +118,7 @@ import SupportIcon from './icons/IconSupport.vue'
     If you need more resources, we suggest paying
     <a
       href="https://github.com/vuejs/awesome-vue"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       Awesome Vue
@@ -124,6 +136,7 @@ import SupportIcon from './icons/IconSupport.vue'
     Got stuck? Ask your question on
     <a
       href="https://chat.vuejs.org"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       Vue Land,
@@ -131,6 +144,7 @@ import SupportIcon from './icons/IconSupport.vue'
     our official Discord server, or
     <a
       href="https://stackoverflow.com/questions/tagged/vue.js"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       StackOverflow.
@@ -138,6 +152,7 @@ import SupportIcon from './icons/IconSupport.vue'
     You should also subscribe to
     <a
       href="https://news.vuejs.org"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       our mailing list
@@ -145,6 +160,7 @@ import SupportIcon from './icons/IconSupport.vue'
     and follow the official
     <a
       href="https://twitter.com/vuejs"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       @vuejs
@@ -162,6 +178,7 @@ import SupportIcon from './icons/IconSupport.vue'
     As an independent project, Vue relies on community backing for its sustainability. You can help us by
     <a
       href="https://vuejs.org/sponsor/"
+      rel="noopener noreferrer nofollow"
       target="_blank"
     >
       becoming a sponsor.

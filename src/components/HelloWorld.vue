@@ -15,6 +15,7 @@ defineProps({
       <a
         href="https://vitejs.dev/"
         target="_blank"
+        rel="noopener noreferrer nofollow"
       >
         Vite
       </a>
@@ -22,6 +23,7 @@ defineProps({
       <a
         href="https://vuejs.org/"
         target="_blank"
+        rel="noopener noreferrer nofollow"
       >
         Vue 3.
       </a>

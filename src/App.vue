@@ -75,24 +75,24 @@ nav {
   margin-top: 2rem;
   font-size: 12px;
   text-align: center;
+
+  a {
+    display: inline-block;
+    padding: 0 1rem;
+    border-left: 1px solid var(--color-border);
+  }
+
+  a:first-of-type {
+    border: 0;
+  }
 }
 
-nav a.router-link-exact-active {
-  color: var(--color-text);
+.router-link-exact-active {
+  color: var(--color-border);
 }
 
-nav a.router-link-exact-active:hover {
+.router-link-exact-active:hover {
   background-color: transparent;
-}
-
-nav a {
-  display: inline-block;
-  padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
-}
-
-nav a:first-of-type {
-  border: 0;
 }
 
 @media (min-width: 1024px) {

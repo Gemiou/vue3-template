@@ -10,24 +10,24 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "pinia": "^2.0.16",
+    "pinia": "^2.0.20",
     "vue": "^3.2.37",
-    "vue-router": "4.1.2"
+    "vue-router": "4.1.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^3.0.1",
+    "@vitejs/plugin-vue": "^3.0.3",
     "@vue/cli-plugin-eslint": "~5.0.8",
     "@vue/eslint-config-prettier": "^7.0.0",
-    "eslint": "^8.20.0",
+    "eslint": "^8.22.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.2.0",
     "jsdom": "^20.0.0",
     "prettier": "2.7.1",
-    "sass": "^1.53.0",
+    "sass": "^1.54.5",
     "sass-loader": "^13.0.2",
-    "vite": "^3.0.2",
+    "vite": "^3.0.9",
     "vite-plugin-windicss": "^1.8.7",
-    "vitest": "^0.18.1",
+    "vitest": "^0.22.1",
     "windicss": "^3.5.6"
   }
 }

@@ -4,7 +4,8 @@ import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
 
-import 'virtual:windi.css'
+import 'uno.css'
+import 'virtual:unocss-devtools'
 
 const app = createApp(App)
 

@@ -58,7 +58,7 @@ header {
 
 a,
 .green {
-  color: hsla(160, 100%, 37%, 1);
+  color: var(--color-link);
   text-decoration: none;
   transition: 0.4s;
 }
@@ -87,7 +87,7 @@ nav {
 }
 
 .router-link-exact-active {
-  color: var(--color-border);
+  color: var(--color-accent);
 }
 
 .router-link-exact-active:hover {

@@ -9,6 +9,7 @@ defineProps({
 
 <template>
   <div class="greetings">
+    <!--tailwindcss color-->
     <h1 class="text-amber-500">{{ msg }}</h1>
     <h3>
       You’ve successfully created a project with
@@ -25,7 +26,15 @@ defineProps({
         target="_blank"
         rel="noopener noreferrer nofollow"
       >
-        Vue 3.
+        Vue 3
+      </a>
+      +
+      <a
+        href="https://uno.antfu.me/"
+        target="_blank"
+        rel="noopener noreferrer nofollow"
+      >
+        UnoCss (Windi / Tailwind).
       </a>
     </h3>
   </div>
